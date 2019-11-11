@@ -1,4 +1,4 @@
-module merlin
+module github.com/developerfred/merlin
 
 go 1.12
 
